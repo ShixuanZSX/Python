@@ -1,0 +1,14 @@
+<application>
+  <component name="RInterpreterSettings">
+    <option name="interpreters">
+      <list>
+        <RSerializableInterpreter>
+          <option name="name" value="Suggested" />
+          <option name="path" value="$USER_HOME$/opt/anaconda3/bin/R" />
+          <option name="timestamp" value="1581454291359" />
+          <option name="version" value="3.6.1" />
+        </RSerializableInterpreter>
+      </list>
+    </option>
+  </component>
+</application>
