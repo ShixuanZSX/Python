@@ -4,6 +4,8 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="HelloWorld.tinytuple" />
+        <option value="TrainingModel.annytab" />
+        <option value="Evaluation.annytab" />
       </list>
     </option>
   </inspection_tool>
